@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+# Unignore this gitignore
+!.gitignore
+
+# Unignore the plugins folder itself so git can traverse into it
+!plugins/
+plugins/*
+
+# Allow only these two files
+!plugins/HideBlockedEverywhere.plugin.js
+!plugins/InvisibleTyping.plugin.js

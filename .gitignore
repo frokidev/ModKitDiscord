@@ -10,4 +10,3 @@ plugins/*
 
 # Allow only these two files
 !plugins/HideBlockedEverywhere.plugin.js
-!plugins/InvisibleTyping.plugin.js

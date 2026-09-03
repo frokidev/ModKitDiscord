@@ -8,6 +8,6 @@
 !plugins/
 plugins/*
 
-# Allow only these two files
+# Allow only these files
 !plugins/HideBlockedEverywhere.plugin.js
-!plugins/InvisibleTyping.plugin.js
+!plugins/VoiceOverlay.plugin.js

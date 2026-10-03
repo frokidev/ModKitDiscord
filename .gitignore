@@ -11,3 +11,5 @@ plugins/*
 # Allow only these files
 !plugins/HideBlockedEverywhere.plugin.js
 !plugins/VoiceOverlay.plugin.js
+!plugins/DiscordQuestCompleter.plugin.js
+!
